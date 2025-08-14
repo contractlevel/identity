@@ -3,6 +3,7 @@
 *.egg-info/
 fuzzy_signer/old/
 __pycache__/
+vlei-trainings/
 
 # Jupyter Notebook
 .ipynb_checkpoints

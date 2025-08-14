@@ -2,11 +2,11 @@
 
 This project is being researched for the [vLEI Hackathon](https://www.gleif.org/en/newsroom/events/gleif-vlei-hackathon-2025), and is intended to address the critical need for absolute sybil-resistance by consensus.
 
-This repo contains the [vLEI-trainings resource](https://github.com/gleIF-IT/vlei-trainings), used for deploying GLEIF testnet infrastructure.
-
 ## Set Up
 
 ### GLEIF Testnet Infrastructure
+
+The [vLEI-trainings resource](https://github.com/gleIF-IT/vlei-trainings) is used for deploying GLEIF testnet infrastructure, but is not included in this repo.
 
 Open Docker:
 
