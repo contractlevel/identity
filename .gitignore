@@ -1,0 +1,21 @@
+.venv/
+.env
+*.egg-info/
+fuzzy_signer/old/
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
